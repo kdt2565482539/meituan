@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-overlay": "/wxcomponents/vant/overlay/index"
+  }
+}

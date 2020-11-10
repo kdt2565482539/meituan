@@ -1,0 +1,122 @@
+.toptop {
+		background-color: #FFD11C;
+}
+.Navigation {
+		height: 70PX;
+		width: 100%;
+		background-color: #FFD11C;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		padding-left: 10px;
+		position: fixed;
+		top: 0;
+		z-index: 999;
+}
+.Navigation2 {
+		height: 70PX;
+		width: 100%;
+		background-color: white;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		padding-left: 10px;
+		padding-top: 10px;
+		position: fixed;
+		top: 0;
+		z-index: 999;
+}
+.zonghepaixu{
+		width: 100%;
+		height: 20px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		font-size: 10px;
+		position: fixed;
+		top:78px;
+		z-index: 999;
+		display: flex;
+		-webkit-justify-content: space-around;
+		        justify-content: space-around;
+		padding: 10px 0;
+		background-color: white;
+}
+.zhpaix{
+		border: 1px solid white;
+		background-color: white;
+		 width: 750rpx;
+		 height: 100px;
+		 position: absolute;
+		 top:100%;
+		 left:0;
+		 z-index: 99;
+}
+.topmenu {
+		height: 900px;
+		padding: 5px 8px;
+		background-color: #FBFBFB;
+		margin-top: 70px;
+		border: 1px solid white;
+		border-radius: 20px 20px 0 0;
+}
+.pad {
+		padding-left: 8px !important;
+}
+.search {
+		height: 70rpx;
+}
+.searchbow text {
+		background-color: #F1F1F1;
+		padding: 2px 4px;
+		margin-left: 5px;
+		font-size: 12px;
+		border-radius: 12px;
+}
+.down {
+		margin-top: 10px;
+}
+.menu {
+		background-color: white;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-justify-content: space-around;
+		        justify-content: space-around;
+		-webkit-align-content: space-around;
+		        align-content: space-around;
+		padding: 5px 8px;
+}
+.tu {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-flow: column nowrap;
+		        flex-flow: column nowrap;
+		font-size: 10px;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+}
+.weiniyouxuanimg{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-flow: column nowrap;
+		        flex-flow: column nowrap;
+}
+.weiniyouxuanimg view image{
+		width: 95px;
+		height: 95px;
+}
+
